@@ -1,27 +1,27 @@
 {
     "head": {
         "home": {
-            "title": "Gower - Conception de Produits & IA",
-            "description": "Gower - Studio de design de produits innovants, développant des solutions numériques propulsées par l'IA.",
-            "keywords": "Gower, Design de Produits, Intelligence Artificielle, Innovation",
-            "author": "Gower",
-            "url": "https://gower.ai/"
+            "title": "HA Agency - Contenus Visuels & Stratégie Digitale",
+            "description": "HA Agency - Studio créatif offrant des contenus visuels professionnels, photos, vidéos et gestion stratégique des réseaux sociaux.",
+            "keywords": "HA Agency, Contenus Visuels, Photos, Vidéos, Gestion Réseaux Sociaux",
+            "author": "HA Agency",
+            "url": "https://ha-agency.com/"
         },
         "contact": {
-            "title": "Gower - Contact",
-            "description": "Contactez Gower - Studio de design et développement de produits IA",
-            "keywords": "Gower, Contact, Design, IA",
-            "author": "Gower",
-            "url": "https://gower.ai/contact"
+            "title": "HA Agency - Contact",
+            "description": "Contactez HA Agency - Studio créatif en contenus visuels et gestion des réseaux sociaux",
+            "keywords": "HA Agency, Contact, Visuel, Stratégie Digitale",
+            "author": "HA Agency",
+            "url": "https://ha-agency.com/contact"
         }
     },
     "loading": {
-        "intro": "Studio Gower",
+        "intro": "Studio HA Agency",
         "message_1": "Bonjour, nous sommes",
-        "message_2": "gower,",
+        "message_2": "ha agency,",
         "message_3": "studio",
-        "message_4": "d'innovation",
-        "message_5": "heureux de vous accueillir...",
+        "message_4": "créatif",
+        "message_5": "ravis de vous accueillir...",
         "percent": "%"
     },
     "socialNetwork": {
@@ -47,9 +47,9 @@
         }
     },
     "header": {
-        "email": "HELLO@GOWER.AI",
+        "email": "HELLO@HA-AGENCY.COM",
         "locale": "fr",
-        "logo": "Gower",
+        "logo": "HA Agency",
         "close": "Fermer",
         "key_menu": "Menu",
         "langs": {
@@ -62,8 +62,8 @@
         },
         "menu": {
             "manifesto": {"attribute": "Manifeste", "more": "null" },
-            "experience": {"attribute": "Expertise", "more": "(AI+)" },
-            "cases": {"attribute": "Études de Cas", "more": "(10+)" },
+            "experience": {"attribute": "Services", "more": "(Visuels+)" },
+            "cases": {"attribute": "Projets", "more": "(10+)" },
             "contact": {"attribute": "Contact", "more": "null" }
         },
         "socialNetwork": {
@@ -75,94 +75,94 @@
         },
         "description": {
             "title": "Qui sommes-nous?",
-            "content": "Gower est un studio de conception de produits et de développement IA. Nous créons des expériences numériques intelligentes pour des entreprises visionnaires, en alliant un design humainement centré et les technologies d'intelligence artificielle les plus avancées."
+            "content": "HA Agency est un studio créatif spécialisé dans la production de contenus visuels professionnels, la gestion de réseaux sociaux et la création d'expériences digitales engageantes. Nous mêlons esthétisme, storytelling et innovation pour bâtir une identité visuelle forte autour de vos projets."
         },
-        "copyright": "© 2024 GOWER.",
-        "action": "DISCUTONS",
+        "copyright": "© 2024 HA Agency.",
+        "action": "DISCUTEZ AVEC NOUS",
         "home": "PAGE D'ACCUEIL",
         "project": "NOS PROJETS"
     },
     "intro": {
         "title": {
-            "1": "design",
-            "2_1": "produits",
-            "2_2": "IA",
-            "3": "Innovants"
+            "1": "contenus",
+            "2_1": "visuels",
+            "2_2": "impactants",
+            "3": "et mémorables"
         },
         "descriptions": {
-            "1": "Gower est un studio d'innovation, spécialisé dans la création de produits numériques enrichis par l'IA.",
-            "2": "Nous façonnons l'avenir digital, en concevant des solutions qui transforment la relation entre les utilisateurs et la technologie."
+            "1": "HA Agency est un studio créatif qui façonne votre image de marque grâce à des contenus visuels percutants, des photos et vidéos professionnelles.",
+            "2": "Nous donnons vie à des stratégies digitales innovantes, en accompagnant votre présence sur les réseaux sociaux avec du storytelling et une direction artistique soignée."
         },
         "menu": {
             "Manifesto": "Manifeste",
-            "Experience": "Expertise",
-            "Cases": "Études de Cas",
+            "Experience": "Services",
+            "Cases": "Projets",
             "Contact": "Contact"
         },
         "copy": "© 2024"
     },
     "manifesto": {
         "subtitle_1": "Manifeste",
-        "subtitle_2": "Notre vision de l'innovation",
-        "slogan": "Avoir une vision technologique ne suffit pas,",
-        "description": "cela n'est que le point de départ. Une équipe d'innovation véritablement exceptionnelle investit dans une écoute profonde, nourrit la curiosité et s'appuie sur des données probantes. Nous croyons que les meilleures solutions émergent de l'expérimentation, de la remise en question des certitudes et d'une observation impartiale.",
-        "who_i_am": "Nous sommes Gower, un collectif de concepteurs, ingénieurs et penseurs guidés par l'ambition d'harmoniser design intuitif et intelligence artificielle. Notre passion est de repousser les frontières de la technologie, de transformer des concepts abstraits en produits tangibles, élégants et utiles.",
-        "what_i_do": "Notre mission est de donner vie aux idées en créant des écosystèmes numériques engageants, répondant à de vrais besoins utilisateurs. Nous visons à concevoir chaque interface, chaque interaction, comme une expérience mémorable, naturelle et porteuse de sens.",
+        "subtitle_2": "Notre vision créative",
+        "slogan": "Avoir une vision artistique ne suffit pas,",
+        "description": "c'est notre point de départ. Une équipe de création véritablement inspirante s'engage dans une écoute active, nourrit la curiosité et s'appuie sur la connaissance de son audience. Nous pensons que les meilleures campagnes visuelles naissent de l'expérimentation, de l’analyse des tendances et de l’ouverture culturelle.",
+        "who_i_am": "Nous sommes HA Agency, un collectif de créateurs d'images, de producteurs de contenus visuels et de stratèges digitaux. Notre passion : repousser les frontières du branding, transformer des idées en visuels percutants et offrir une présence digitale engageante.",
+        "what_i_do": "Notre mission est de donner vie aux histoires de marques, en forgeant des identités visuelles qui résonnent auprès de votre public. Nous créons chaque photo, chaque vidéo et chaque post social comme une expérience cohérente, authentique et inspirante.",
         "goal": "Envie d'en savoir plus sur notre approche?,",
         "action": "Découvrez notre Philosophie"
     },
     "experience": {
-        "title": "Croissance par l'Expertise",
-        "description": "L'innovation se situe souvent dans ces espaces inexplorés, ces intersections imprévues entre design, data et intelligence artificielle. C'est dans ces terrains encore vierges que Gower puise son inspiration et nourrit une quête incessante de perfection.",
+        "title": "Croissance par la Créativité",
+        "description": "L’innovation visuelle se découvre dans ces espaces inexplorés où l’art, la culture et la technologie s’entrecroisent. HA Agency s'inspire de ces zones fertiles pour développer des campagnes percutantes, fusionnant esthétique, stratégie et performance digitale.",
         "stages": {
             "1": {
-                "title": "CONCEPTION PRODUIT",
+                "title": "DIRECTION ARTISTIQUE",
                 "count": "01",
-                "description": "Notre aventure débute par le Design Produit, où la réflexion stratégique rencontre le besoin utilisateur. Nous élaborons des concepts fonctionnels et esthétiques, posant les fondations d'une expérience fluide et pertinente."
+                "description": "Nous commençons par définir une vision esthétique et stratégique claire. Notre direction artistique sublime votre message afin que chaque image soit le reflet de votre identité."
             },
             "2": {
-                "title": "DESIGN D'INTERFACES",
+                "title": "PRODUCTION VISUELLE",
                 "count": "02",
-                "description": "Ensuite, nous apportons la finesse visuelle. Le design d'interfaces, fondé sur des principes d’UX/UI robustes, façonne l'expérience, garantissant que les utilisateurs interagissent avec les produits de manière intuitive."
+                "description": "Nous créons du contenu visuel professionnel, des photographies haut de gamme aux vidéos créatives, racontant votre histoire de manière authentique, impactante et mémorable."
             },
             "3": {
-                "title": "DÉVELOPPEMENT AI-DRIVEN",
+                "title": "GESTION DES RÉSEAUX SOCIAUX",
                 "count": "03",
-                "description": "Nous entrons dans le cœur technologique : le développement piloté par l'IA. Ici, les algorithmes, le machine learning et le traitement des données se combinent pour créer des systèmes dynamiques, intelligents et évolutifs, capables d'apprendre et de s'adapter."
+                "description": "Nous élaborons une stratégie de diffusion sur les plateformes sociales, assurant une cohérence entre vos contenus, votre audience et vos objectifs, pour booster votre visibilité."
             },
             "4": {
-                "title": "ARCHITECTURE SYSTÈME",
+                "title": "ANALYSE & OPTIMISATION",
                 "count": "04",
-                "description": "Enfin, nous concevons des architectures robustes et extensibles. Nous pensons l’ensemble du système pour supporter une croissance constante, assurant une performance fiable, un déploiement agile et une sécurité renforcée."
+                "description": "Nous évaluons les performances, analysons les retours et optimisons votre présence digitale. Ainsi, chaque campagne s’affine et gagne en pertinence, pour un impact durable."
             }
         }
     },
     "motivation": {
         "action": "LANCEZ VOTRE PROJET",
         "content": {
-            "1": "Ouverte, audacieuse et orientée vers le futur, notre approche transcende les dogmes d'hier. Nos équipes travaillent dans la responsabilisation et l'autonomie, favorisant l'émergence de solutions originales soutenues par une forte cohésion.",
-            "2": "Notre ambition est de créer des produits uniques, issus de la diversité des esprits et des parcours, sans limites de genre, d'âge ou de culture."
+            "1": "Ouverte, audacieuse et tournée vers l’avenir, notre approche créative dépasse les tendances éphémères. Nos équipes autonomes conjuguent savoir-faire artistique et rigueur stratégique, garantissant des résultats à forte valeur ajoutée.",
+            "2": "Notre ambition : façonner des identités visuelles singulières, portées par la diversité des talents et la richesse des imaginaires, sans frontières ni stéréotypes."
         }
     },
     "cases": {
-        "title": "Études de Cas Sélectionnées",
-        "description": "La créativité requiert un but, une direction, de la responsabilité et de la discipline. Chez Gower, nous investissons ces qualités au service de solutions technologiques significatives, capables de propulser nos partenaires vers de nouveaux horizons."
+        "title": "Projets Sélectionnés",
+        "description": "La créativité nécessite une direction, une vision et de la constance. Chez HA Agency, nous mettons ces qualités au service de solutions visuelles signifiantes, capables d'accompagner nos partenaires vers de nouveaux horizons digitaux."
     },
     "contactCall": {
-        "title": "VOUS AVEZ UNE IDÉE DE PRODUIT ?",
+        "title": "VOUS AVEZ UN PROJET VISUEL ?",
         "action":"ÉCHANGEONS",
-        "description": "Osez la transformation et libérez le potentiel de l’IA."
+        "description": "Osez l’impact et laissez votre marque rayonner sur le digital."
     },
     "footer": {
-        "state": "Nous travaillons souvent sur plusieurs initiatives simultanées, mais restons ouverts à de nouvelles collaborations.",
+        "state": "Nous gérons plusieurs projets simultanément, mais restons ouverts à de nouvelles collaborations.",
         "action": "RETOUR EN HAUT",
-        "name": "GOWER",
+        "name": "HA AGENCY",
         "copy": "© 2024",
         "socialNetwork": "SUIVEZ-NOUS"
     },
     "contact": {
         "title": "Entrons en contact",
-        "subtitle": "Parlez-nous de votre vision",
+        "subtitle": "Parlez-nous de votre vision visuelle",
         "localTime": "NOTRE HEURE LOCALE EST",
         "gmtTime": "GMT ",
         "reppedBy": "Représenté par"
@@ -193,11 +193,11 @@
                 "placeholder": "Votre objectif",
                 "label": "Objectif",
                 "options": {
-                    "1": "Lancement d'un Produit IA",
-                    "2": "Opportunité de Partenariat",
-                    "3": "Retour sur nos Solutions",
-                    "4": "Explorer une Collaboration",
-                    "5": "Simplement Dire Bonjour",
+                    "1": "Création de Contenus Visuels",
+                    "2": "Gestion des Réseaux Sociaux",
+                    "3": "Conseil Stratégique",
+                    "4": "Production Vidéo",
+                    "5": "Shooting Photo",
                     "6": "Autre"
                 }
             },
@@ -253,54 +253,54 @@
     },
     "projects": {
         "1": {
-            "title": "AI Retail Companion",
-            "alt": "AI Retail Companion",
-            "description": "Conception et développement d'un outil intelligent d'analyse des comportements d'achat, offrant aux retailers une vision prédictive et des recommandations en temps réel."
+            "title": "Campagne Visuelle pour Marque Mode",
+            "alt": "Campagne Mode",
+            "description": "Shooting photo et création d'une identité visuelle pour une marque de mode émergente, renforçant son positionnement premium sur les réseaux."
         },
         "2": {
-            "title": "Healthcare Data Insight",
-            "alt": "Healthcare Data Insight",
-            "description": "Collaboration avec un consortium médical international. Mise en place de solutions IA pour interpréter les données patients, améliorer le diagnostic précoce et optimiser les parcours de soins."
+            "title": "Vidéo Promotionnelle Événementielle",
+            "alt": "Vidéo Événement",
+            "description": "Production vidéo immersive pour un lancement de produit, capturant l’ambiance et l'émotion d'un événement exclusif."
         },
         "3": {
-            "title": "Green Energy Optimizer",
-            "alt": "Green Energy Optimizer",
-            "description": "Service de conseil technique pour une startup énergétique. Intégration d'algorithmes intelligents afin de maximiser l'efficacité de la production d'énergies renouvelables."
+            "title": "Stratégie Sociale pour Start-up Tech",
+            "alt": "Stratégie Sociale",
+            "description": "Accompagnement d'une startup tech dans sa stratégie de réseaux sociaux, optimisant l'engagement et la portée de chaque publication."
         },
         "4": {
-            "title": "Shinobi Analytics",
-            "alt": "Shinobi Analytics",
-            "description": "Plateforme d’analyse de données de mobilité urbaine. Fournit aux villes des insights précis pour réorganiser l'espace public et réduire la congestion."
+            "title": "Photographie Culinaire Artistique",
+            "alt": "Photographie Culinaire",
+            "description": "Réalisation d'un catalogue photo gastronomique pour un restaurant étoilé, suscitant l'appétit et l’inspiration sur Instagram."
         },
         "5": {
-            "title": "Academic Project Management",
-            "alt": "Academic Project Management",
-            "description": "Application web destinée aux établissements d'enseignement supérieur. Offre une vue centralisée sur les projets étudiants et leur avancement, appuyée par des recommandations d'IA."
+            "title": "Mini-Séries Vidéo pour Marque Lifestyle",
+            "alt": "Mini-Séries Vidéo",
+            "description": "Création de mini-films pour une marque lifestyle, racontant son histoire et ses valeurs à travers un storytelling visuel captivant."
         },
         "6": {
-            "title": "PropTech Intelligence",
-            "alt": "PropTech Intelligence",
-            "description": "Plateforme d’investissement immobilier basée sur l’IA, aidant les investisseurs indépendants à identifier, comparer et sélectionner les meilleures opportunités du marché."
+            "title": "Gestion et Animation d’un Compte Influencer",
+            "alt": "Gestion Compte Influencer",
+            "description": "Stratégie digitale globale, incluant contenu visuel et programmation, pour faire grandir la communauté d’un influenceur inspirant."
         },
         "7": {
-            "title": "Digital Growth Agency",
-            "alt": "Digital Growth Agency",
-            "description": "Solutions marketing IA-first pour une agence digitale. Conception de sites web sur mesure et d'outils d'analyse prédictive pour optimiser la stratégie en ligne."
+            "title": "Campagne Publicitaire Multicanal",
+            "alt": "Campagne Multicanal",
+            "description": "Conception d'une campagne publicitaire intégrée, alliant photos, vidéos et social media ads, maximisant l'impact et la notoriété."
         },
         "8": {
-            "title": "Fintech Advisory",
-            "alt": "Fintech Advisory",
-            "description": "Design et développement d’outils IA pour une plateforme de trading. Élaboration d'identités numériques cohérentes et création d'un système de conseil algorithmique."
+            "title": "Branding Visuel pour Agence de Voyage",
+            "alt": "Branding Agence Voyage",
+            "description": "Élaboration d’une charte graphique et production d’images inspirantes pour une agence de voyage, invitant au dépaysement."
         },
         "9": {
-            "title": "EduTech Analytics",
-            "alt": "EduTech Analytics",
-            "description": "Solutions d’analyse IA pour le secteur de l’éducation. Optimisation du contenu, personnalisation de l’apprentissage, et recommandations d'amélioration pédagogique."
+            "title": "Série de Portraits Corporate",
+            "alt": "Portraits Corporate",
+            "description": "Réalisation de portraits photo professionnels, valorisant l’équipe et l’expertise d’une entreprise B2B sur LinkedIn."
         },
         "10": {
-            "title": "Projets sur Mesure",
-            "alt": "Projets sur Mesure",
-            "description": "Réalisation d'initiatives diversifiées pour nos partenaires, intégrant IA, design, performance et sécurité, afin de créer des produits numériques vraiment exceptionnels."
+            "title": "Projets Sur Mesure",
+            "alt": "Projets Sur Mesure",
+            "description": "Nous répondons à vos besoins spécifiques, en intégrant photo, vidéo et réseaux sociaux pour créer des projets visuels vraiment uniques."
         }
     }
 }
