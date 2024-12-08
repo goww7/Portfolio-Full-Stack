@@ -1,27 +1,27 @@
 {
     "head": {
         "home": {
-            "title": "Mohamed Amine SAYAGH - Développeur Web Full Stack",
-            "description": "Mohamed Amine SAYAGH - Développeur Web Full Stack",
-            "keywords": "Mohamed Amine SAYAGH - Développeur Web Full Stack",
-            "author": "Mohamed Amine SAYAGH",
-            "url": "https://ma-sayagh.vercel.app/"
+            "title": "Gower - Conception de Produits & IA",
+            "description": "Gower - Studio de design de produits innovants, développant des solutions numériques propulsées par l'IA.",
+            "keywords": "Gower, Design de Produits, Intelligence Artificielle, Innovation",
+            "author": "Gower",
+            "url": "https://gower.ai/"
         },
         "contact": {
-            "title": "Mohamed Amine SAYAGH - Contact",
-            "description": "Mohamed Amine SAYAGH - Contact",
-            "keywords": "Mohamed Amine SAYAGH - Contact",
-            "author": "Mohamed Amine SAYAGH",
-            "url": "https://ma-sayagh.vercel.app/contact"
+            "title": "Gower - Contact",
+            "description": "Contactez Gower - Studio de design et développement de produits IA",
+            "keywords": "Gower, Contact, Design, IA",
+            "author": "Gower",
+            "url": "https://gower.ai/contact"
         }
     },
     "loading": {
-        "intro": "Portfolio Web",
-        "message_1": "Salut, je suis",
-        "message_2": "mohamed",
-        "message_3": "amine",
-        "message_4": "sayagh",
-        "message_5": "ravi de vous revoir...",
+        "intro": "Studio Gower",
+        "message_1": "Bonjour, nous sommes",
+        "message_2": "gower,",
+        "message_3": "studio",
+        "message_4": "d'innovation",
+        "message_5": "heureux de vous accueillir...",
         "percent": "%"
     },
     "socialNetwork": {
@@ -47,9 +47,9 @@
         }
     },
     "header": {
-        "email": "AMINESAYAGH1997@GMAIL.COM",
+        "email": "HELLO@GOWER.AI",
         "locale": "fr",
-        "logo": "Mohamed Amine SAYAGH",
+        "logo": "Gower",
         "close": "Fermer",
         "key_menu": "Menu",
         "langs": {
@@ -62,8 +62,8 @@
         },
         "menu": {
             "manifesto": {"attribute": "Manifeste", "more": "null" },
-            "experience": {"attribute": "Expérience", "more": "(40+)" },
-            "cases": {"attribute": "Projets", "more": "(☺ 90+)" },
+            "experience": {"attribute": "Expertise", "more": "(AI+)" },
+            "cases": {"attribute": "Études de Cas", "more": "(10+)" },
             "contact": {"attribute": "Contact", "more": "null" }
         },
         "socialNetwork": {
@@ -72,99 +72,98 @@
             "github": "GH",
             "dribbble": "DR",
             "medium": "MD"
-            
         },
         "description": {
-            "title": "Qui est derrière l'écran?",
-            "content": "Mohamed Amine Sayagh, un développeur full-stack indépendant spécialisé en design UI/UX. Il crée des expériences web fluides pour la nouvelle génération d'entreprises orientées client."
+            "title": "Qui sommes-nous?",
+            "content": "Gower est un studio de conception de produits et de développement IA. Nous créons des expériences numériques intelligentes pour des entreprises visionnaires, en alliant un design humainement centré et les technologies d'intelligence artificielle les plus avancées."
         },
-        "copyright": "© 2023 MOHAMED AMINE SAYAGH.",
-        "action": "PARLONS-EN",
+        "copyright": "© 2024 GOWER.",
+        "action": "DISCUTONS",
         "home": "PAGE D'ACCUEIL",
-        "project": "MY PROJECTS"
+        "project": "NOS PROJETS"
     },
     "intro": {
         "title": {
-            "1": "interface",
-            "2_1": "full",
-            "2_2": "stack",
-            "3": "Développeur"
+            "1": "design",
+            "2_1": "produits",
+            "2_2": "IA",
+            "3": "Innovants"
         },
         "descriptions": {
-            "1": "Mohamed Amine SAYAGH, un développeur web indépendant, avec expérience en design UI/UX.",
-            "2": "Je crée des expériences web agréables pour la prochaine génération d'entreprises orientées client."
+            "1": "Gower est un studio d'innovation, spécialisé dans la création de produits numériques enrichis par l'IA.",
+            "2": "Nous façonnons l'avenir digital, en concevant des solutions qui transforment la relation entre les utilisateurs et la technologie."
         },
         "menu": {
             "Manifesto": "Manifeste",
-            "Experience": "Expérience",
-            "Cases": "Projets",
+            "Experience": "Expertise",
+            "Cases": "Études de Cas",
             "Contact": "Contact"
         },
-        "copy": "© 2023"
+        "copy": "© 2024"
     },
     "manifesto": {
         "subtitle_1": "Manifeste",
-        "subtitle_2": "Ma méthode d'approche de la résolution de problèmes",
-        "slogan": "Avoir raison ne suffit pas,",
-        "description": "cela ne représente même qu'un début. Un ingénieur exceptionnel consacre un temps considérable à une écoute profonde et impartiale. Il considère l'expérimentation concrète comme une source de vérité, tout en différenciant clairement les jugements basés sur des opinions de ceux appuyés par des faits concrets.",
-        "who_i_am": "Je m'appelle Mohamed Amine SAYAGH, développeur web indépendant et passionné, avec une profonde inclination pour la science et le design d'interfaces web. Doté d'un sens aigu du détail et d'une solide compréhension des principes centrés sur l'utilisateur, je repousse sans cesse les frontières du possible dans l'univers numérique.",
-        "what_i_do": "Ma passion est de métamorphoser les idées en designs distinctifs, fonctionnels et résolvant des problèmes, qu'il s'agisse de produits numériques, de marques ou de sites web. Mon objectif est que chaque interaction numérique soit non seulement fonctionnelle, mais également agréable et marquante.",
-        "goal": "Vous voulez en savoir plus sur moi?,",
-        "action": "Découvrez mon Résumé"
+        "subtitle_2": "Notre vision de l'innovation",
+        "slogan": "Avoir une vision technologique ne suffit pas,",
+        "description": "cela n'est que le point de départ. Une équipe d'innovation véritablement exceptionnelle investit dans une écoute profonde, nourrit la curiosité et s'appuie sur des données probantes. Nous croyons que les meilleures solutions émergent de l'expérimentation, de la remise en question des certitudes et d'une observation impartiale.",
+        "who_i_am": "Nous sommes Gower, un collectif de concepteurs, ingénieurs et penseurs guidés par l'ambition d'harmoniser design intuitif et intelligence artificielle. Notre passion est de repousser les frontières de la technologie, de transformer des concepts abstraits en produits tangibles, élégants et utiles.",
+        "what_i_do": "Notre mission est de donner vie aux idées en créant des écosystèmes numériques engageants, répondant à de vrais besoins utilisateurs. Nous visons à concevoir chaque interface, chaque interaction, comme une expérience mémorable, naturelle et porteuse de sens.",
+        "goal": "Envie d'en savoir plus sur notre approche?,",
+        "action": "Découvrez notre Philosophie"
     },
     "experience": {
-        "title": "Évolution à travers l'expertise",
-        "description": "La vie se cache dans des endroits que nous ne regardons jamais, les choses que nous désirons se trouvent dans les rues que nous n'avons pas encore parcourues. Ce sont ces routes inexplorées qui m'appellent, enflammant une quête sans fin dans mon cœur.",
+        "title": "Croissance par l'Expertise",
+        "description": "L'innovation se situe souvent dans ces espaces inexplorés, ces intersections imprévues entre design, data et intelligence artificielle. C'est dans ces terrains encore vierges que Gower puise son inspiration et nourrit une quête incessante de perfection.",
         "stages": {
             "1": {
-                "title": "WEB DESIGNER",
+                "title": "CONCEPTION PRODUIT",
                 "count": "01",
-                "description": "Mon voyage a commencé dans le domaine du Web Design, où le canvas de la créativité a rencontré la rigueur structurelle de la programmation. Ici, j'ai appris à harmoniser l'esthétique avec la fonctionnalité, en créant des interfaces utilisateur convaincantes qui non seulement avaient une belle apparence, mais fonctionnaient également de manière fluide."
+                "description": "Notre aventure débute par le Design Produit, où la réflexion stratégique rencontre le besoin utilisateur. Nous élaborons des concepts fonctionnels et esthétiques, posant les fondations d'une expérience fluide et pertinente."
             },
             "2": {
-                "title": "DÉVELOPPEMENT FRONT-END",
+                "title": "DESIGN D'INTERFACES",
                 "count": "02",
-                "description": "En m'immergeant davantage dans le métier, je suis passé au domaine passionnant du développement Front-End. Ici, je suis devenu le pont entre le design et la technologie, donnant vie aux designs statiques avec des langages de codage robustes. J'ai commencé à voir les sites web comme bien plus que de simples interfaces visuelles."
+                "description": "Ensuite, nous apportons la finesse visuelle. Le design d'interfaces, fondé sur des principes d’UX/UI robustes, façonne l'expérience, garantissant que les utilisateurs interagissent avec les produits de manière intuitive."
             },
             "3": {
-                "title": "DÉVELOPPEMENT BACK-END",
+                "title": "DÉVELOPPEMENT AI-DRIVEN",
                 "count": "03",
-                "description": "Ensuite, je me suis aventuré dans les profondeurs mystérieuses du développement Back-End. Si le front-end concernait la création d'une façade parfaite, le back-end consistait à s'assurer que la machinerie derrière était irréprochable. Bases de données, serveurs, j'ai appris à construire des systèmes évolutifs et efficaces et j'ai commencé à apprécier la complexité sous-jacente qui rend possible le fonctionnement fluide d'un site web."
+                "description": "Nous entrons dans le cœur technologique : le développement piloté par l'IA. Ici, les algorithmes, le machine learning et le traitement des données se combinent pour créer des systèmes dynamiques, intelligents et évolutifs, capables d'apprendre et de s'adapter."
             },
             "4": {
                 "title": "ARCHITECTURE SYSTÈME",
                 "count": "04",
-                "description": "Avec une richesse de connaissances accumulées, mon voyage m'a conduit à l'étude de l'architecture système. J'ai commencé à voir la perspective plus large, comprenant comment chaque décision, chaque composant, chaque ligne de code pouvait impacter tout le système. C'est ici que j'ai affiné ma capacité à concevoir des architectures résilientes, efficaces et évolutives."
+                "description": "Enfin, nous concevons des architectures robustes et extensibles. Nous pensons l’ensemble du système pour supporter une croissance constante, assurant une performance fiable, un déploiement agile et une sécurité renforcée."
             }
         }
     },
     "motivation": {
-        "action": "LANCEZ LE PROJET",
+        "action": "LANCEZ VOTRE PROJET",
         "content": {
-            "1": "Ouvert, audacieux et engageant, sans être prisonnier des opinions enracinées ou obsolètes. Mon travail s'épanouit dans la liberté et l'espace pour grandir, animé par la responsabilité et la motivation intérieure. Je travaille au sein d'équipes diverses, portées par des personnalités remarquables.",
-            "2": "Mon travail aspire à être unique, à émaner de la créativité d'esprits diversifiés - indépendamment du genre, de l'âge ou de tout autre critère."
+            "1": "Ouverte, audacieuse et orientée vers le futur, notre approche transcende les dogmes d'hier. Nos équipes travaillent dans la responsabilisation et l'autonomie, favorisant l'émergence de solutions originales soutenues par une forte cohésion.",
+            "2": "Notre ambition est de créer des produits uniques, issus de la diversité des esprits et des parcours, sans limites de genre, d'âge ou de culture."
         }
     },
     "cases": {
-        "title": "Projets Sélectionnés",
-        "description": "La créativité requiert un But, une Orientation, une Responsabilité et de la discipline. La volonté de faire des sacrifices, qui est le signe distinctif de la maturité au service d'un objectif plus élevé."
+        "title": "Études de Cas Sélectionnées",
+        "description": "La créativité requiert un but, une direction, de la responsabilité et de la discipline. Chez Gower, nous investissons ces qualités au service de solutions technologiques significatives, capables de propulser nos partenaires vers de nouveaux horizons."
     },
     "contactCall": {
-        "title": "VOUS AVEZ UN PROJET ?",
-        "action":"PARLONS-EN",
-        "description": "Confrontez votre être à la nécessité de transformation"
+        "title": "VOUS AVEZ UNE IDÉE DE PRODUIT ?",
+        "action":"ÉCHANGEONS",
+        "description": "Osez la transformation et libérez le potentiel de l’IA."
     },
     "footer": {
-        "state": "Je travaille généralement sur plusieurs projets, mais je serais heureux de discuter de nouvelles opportunités.",
+        "state": "Nous travaillons souvent sur plusieurs initiatives simultanées, mais restons ouverts à de nouvelles collaborations.",
         "action": "RETOUR EN HAUT",
-        "name": "Mohamed Amine SAYAGH",
-        "copy": "© 2023",
-        "socialNetwork": "SUIVEZ-MOI"
+        "name": "GOWER",
+        "copy": "© 2024",
+        "socialNetwork": "SUIVEZ-NOUS"
     },
     "contact": {
-        "title": "Entrez en contact",
-        "subtitle": "Parlez-moi davantage",
-        "localTime": "MON HEURE LOCALE EST",
+        "title": "Entrons en contact",
+        "subtitle": "Parlez-nous de votre vision",
+        "localTime": "NOTRE HEURE LOCALE EST",
         "gmtTime": "GMT ",
         "reppedBy": "Représenté par"
     },
@@ -194,11 +193,11 @@
                 "placeholder": "Votre objectif",
                 "label": "Objectif",
                 "options": {
-                    "1": "Demande de Projet",
-                    "2": "Opportunité d'Emploi",
-                    "3": "Retour sur Mon Portfolio",
-                    "4": "Faire connaissance",
-                    "5": "Dire Bonjour",
+                    "1": "Lancement d'un Produit IA",
+                    "2": "Opportunité de Partenariat",
+                    "3": "Retour sur nos Solutions",
+                    "4": "Explorer une Collaboration",
+                    "5": "Simplement Dire Bonjour",
                     "6": "Autre"
                 }
             },
@@ -214,18 +213,19 @@
             "pattern": "Veuillez respecter le format demandé."
         },
         "notification": {
-            "success": "Génial, j'ai reçu votre message ! Je reviendrai vers vous bientôt.",
+            "success": "Super, nous avons reçu votre message ! Nous reviendrons vers vous prochainement.",
             "error": "Oups ! Une erreur s'est produite. Veuillez réessayer."
         }
-    }, "tasks": {
-        "Web Designer": "Concepteur Web",
+    },
+    "tasks": {
+        "Web Designer": "Designer Web",
         "Web Developer": "Développeur Web",
         "Mobile Developer": "Développeur Mobile",
         "Crypto Developer": "Développeur Crypto",
         "Graphic Designer": "Graphiste",
         "Marketer": "Marketeur",
         "Database Consultant": "Consultant Base de Données",
-        "Scrape Developer": "Développeur de Scraping",
+        "Scrape Developer": "Développeur Scraping",
         "Backend Developer": "Développeur Backend",
         "Frontend Developer": "Développeur Frontend",
         "Infrastructure Developer": "Développeur Infrastructure",
@@ -233,7 +233,6 @@
         "Full Stack Developer": "Développeur Full Stack",
         "Fullstack Developer": "Développeur Fullstack"
     },
-    
     "jobTItle": {
         "CTO": "CTO (Directeur Technique)",
         "CEO": "CEO (Directeur Général)",
@@ -243,65 +242,65 @@
         "RECHERCHE AND DEVELOPMENT": "RECHERCHE ET DÉVELOPPEMENT",
         "FREELANCER": "TRAVAILLEUR INDÉPENDANT",
         "AUTOMATION SPECIALIST": "SPÉCIALISTE DE L'AUTOMATISATION",
-        "ACADEMIC PROJECT PLATFORM ARCHITECT": "ARCHITECTE DE PLATEFORME DE PROJET ACADEMIQUE"
+        "ACADEMIC PROJECT PLATFORM ARCHITECT": "ARCHITECTE DE PLATEFORME ACADÉMIQUE"
     },
     "country": {
         "Morocco": "Maroc",
         "France": "France",
         "United States": "États-Unis",
         "Singapore": "Singapour",
-        "London": "London"
-    },    
+        "London": "Londres"
+    },
     "projects": {
         "1": {
-            "title": "Happy Water",
-            "alt": "Happy Water",
-            "description": "Contribué en tant que concepteur et développeur principal pour un site web de plateforme NFT axé sur l'écologie."
+            "title": "AI Retail Companion",
+            "alt": "AI Retail Companion",
+            "description": "Conception et développement d'un outil intelligent d'analyse des comportements d'achat, offrant aux retailers une vision prédictive et des recommandations en temps réel."
         },
         "2": {
-            "title": "NFT Musical de Sofiane Pamart",
-            "alt": "NFT Musical de Sofiane Pamart",
-            "description": "Collaboration au sein d'une équipe de 140 membres, dont 40 développeurs internationaux, sous la direction de l'entrepreneur Oussama Ommar. Piloté la création de NFTs musicaux visuels capturant l'identité unique de l'artiste Sofiane Pamart, ouvrant la voie à une importante campagne de collecte de fonds."
+            "title": "Healthcare Data Insight",
+            "alt": "Healthcare Data Insight",
+            "description": "Collaboration avec un consortium médical international. Mise en place de solutions IA pour interpréter les données patients, améliorer le diagnostic précoce et optimiser les parcours de soins."
         },
         "3": {
-            "title": "Cohésion Cyber",
-            "alt": "Cohésion Cyber",
-            "description": "Entreprise de sécurité basée à Singapour offrant des consultations techniques pour des solutions de développement appropriées."
+            "title": "Green Energy Optimizer",
+            "alt": "Green Energy Optimizer",
+            "description": "Service de conseil technique pour une startup énergétique. Intégration d'algorithmes intelligents afin de maximiser l'efficacité de la production d'énergies renouvelables."
         },
         "4": {
-            "title": "Shinobi Boy",
-            "alt": "Shinobi Boy",
-            "description": ""
+            "title": "Shinobi Analytics",
+            "alt": "Shinobi Analytics",
+            "description": "Plateforme d’analyse de données de mobilité urbaine. Fournit aux villes des insights précis pour réorganiser l'espace public et réduire la congestion."
         },
         "5": {
-            "title": "Application Web pour la gestion des projets universitaires",
-            "alt": "Application Web pour la gestion des projets universitaires",
-            "description": ""
+            "title": "Academic Project Management",
+            "alt": "Academic Project Management",
+            "description": "Application web destinée aux établissements d'enseignement supérieur. Offre une vue centralisée sur les projets étudiants et leur avancement, appuyée par des recommandations d'IA."
         },
         "6": {
-            "title": "Sodiadd",
-            "alt": "Sodiadd",
-            "description": "Agence d'investissement immobilier ; développé une application web monolithique pour les investisseurs individuels."
+            "title": "PropTech Intelligence",
+            "alt": "PropTech Intelligence",
+            "description": "Plateforme d’investissement immobilier basée sur l’IA, aidant les investisseurs indépendants à identifier, comparer et sélectionner les meilleures opportunités du marché."
         },
         "7": {
-            "title": "Agence Jonas",
-            "alt": "Agence Jonas",
-            "description": "Agence de marketing digital ; réalisé des sites web sur mesure pour une promotion en ligne stratégique."
+            "title": "Digital Growth Agency",
+            "alt": "Digital Growth Agency",
+            "description": "Solutions marketing IA-first pour une agence digitale. Conception de sites web sur mesure et d'outils d'analyse prédictive pour optimiser la stratégie en ligne."
         },
         "8": {
-            "title": "Lavish Trading",
-            "alt": "Lavish Trading",
-            "description": "Dirigé la conception et le développement d'une identité web pour une agence de trading axée sur les individus, proposant des plans d'investissement en ligne et des services de conseil d'experts."
+            "title": "Fintech Advisory",
+            "alt": "Fintech Advisory",
+            "description": "Design et développement d’outils IA pour une plateforme de trading. Élaboration d'identités numériques cohérentes et création d'un système de conseil algorithmique."
         },
         "9": {
-            "title": "Maschool",
-            "alt": "Maschool",
-            "description": ""
+            "title": "EduTech Analytics",
+            "alt": "EduTech Analytics",
+            "description": "Solutions d’analyse IA pour le secteur de l’éducation. Optimisation du contenu, personnalisation de l’apprentissage, et recommandations d'amélioration pédagogique."
         },
         "10": {
-            "title": "Projets FreeLance",
-            "alt": "Projets FreeLance",
-            "description": ""
+            "title": "Projets sur Mesure",
+            "alt": "Projets sur Mesure",
+            "description": "Réalisation d'initiatives diversifiées pour nos partenaires, intégrant IA, design, performance et sécurité, afin de créer des produits numériques vraiment exceptionnels."
         }
-    }    
+    }
 }
